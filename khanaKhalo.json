@@ -1,0 +1,620 @@
+{
+  "Bakery" : [ {
+    "Charge" : 5,
+    "DefaultPrice" : 0,
+    "Description" : "Location- Ayodhya Bypass",
+    "Distance" : "(0-5)km",
+    "Image" : "https://iili.io/dkOjDu.jpg",
+    "Name" : "Kamlesh's Bakery",
+    "Status" : "open",
+    "Type" : "Bakery"
+  } ],
+  "Darshan's Kicthen" : [ {
+    "Image" : "https://iili.io/dsnLQI.jpg",
+    "Name" : "Mutton gravy + 5 butter roti",
+    "Price" : 350
+  }, {
+    "Image" : "https://iili.io/dsnZBt.jpg",
+    "Name" : "Mutton gravy + jeera rice",
+    "Price" : 350
+  }, {
+    "Image" : "https://iili.io/dsntEX.jpg",
+    "Name" : "Chicken gravy + 4 Butter roti + jeera rice",
+    "Price" : 308
+  }, {
+    "Image" : "https://iili.io/dsnD4n.jpg",
+    "Name" : "chicken gravy + 5 butter roti",
+    "Price" : 238
+  }, {
+    "Image" : "https://iili.io/dsnm2s.jpg",
+    "Name" : "chicken gravy + jeera rice",
+    "Price" : 238
+  }, {
+    "Image" : "https://iili.io/dsnyvf.jpg",
+    "Name" : "egg curry + 4 butter roti +jeera rice",
+    "Price" : 210
+  }, {
+    "Image" : "https://iili.io/dsoJTl.jpg",
+    "Name" : "egg curry + 5 butter roti",
+    "Price" : 210
+  }, {
+    "Image" : "https://iili.io/dsodj2.jpg",
+    "Name" : "egg curry +  jeera rice",
+    "Price" : 210
+  }, {
+    "Image" : "https://iili.io/dso2QS.jpg",
+    "Name" : "egg bhurji + 4 paratha",
+    "Price" : 140
+  }, {
+    "Image" : "https://iili.io/dsof4e.jpg",
+    "Name" : "egg bhurji+5 butter roti",
+    "Price" : 140
+  }, {
+    "Image" : "https://iili.io/dsooyx.jpg",
+    "Name" : "omlet + 5 butter roti",
+    "Price" : 140
+  }, {
+    "Image" : "https://iili.io/dsozTQ.md.jpg",
+    "Name" : "omlet + 4 paratha",
+    "Price" : 140
+  } ],
+  "Darshana's Kicthen" : [ {
+    "Image" : "https://iili.io/dsCWDN.md.jpg",
+    "Name" : "5 butter roti + resturant style sabji",
+    "Price" : 70
+  }, {
+    "Image" : "https://iili.io/dsCOfn.jpg",
+    "Name" : "2 Aaloo Paratha + dahi",
+    "Price" : 70
+  }, {
+    "Image" : "https://iili.io/dsCkUG.jpg",
+    "Name" : "jeera rice + Resturant style sabji",
+    "Price" : 70
+  }, {
+    "Image" : "https://iili.io/dsC8Jf.md.jpg",
+    "Name" : "methi Paratha +dahi",
+    "Price" : 70
+  }, {
+    "Image" : "https://iili.io/dsCUOl.jpg",
+    "Name" : "Gobi Paratha+ dahi",
+    "Price" : 70
+  }, {
+    "Image" : "https://iili.io/dsC6W7.jpg",
+    "Name" : "Muli Paratha +dahi",
+    "Price" : 70
+  }, {
+    "Image" : "https://iili.io/dsCsfe.jpg",
+    "Name" : "jeera rice",
+    "Price" : 56
+  }, {
+    "Image" : "https://iili.io/dsCQUb.jpg",
+    "Name" : "Butter roti",
+    "Price" : 9
+  }, {
+    "Image" : "https://iili.io/dsCmbV.jpg",
+    "Name" : "Home made special sabji",
+    "Price" : 56
+  }, {
+    "Image" : "https://iili.io/dsnHs1.jpg",
+    "Name" : "Mix Daal",
+    "Price" : 56
+  }, {
+    "Image" : "https://iili.io/dsC6W7.jpg",
+    "Name" : "Paratha",
+    "Price" : 14
+  } ],
+  "Hema's Kicthen" : [ {
+    "Name" : "xyz "
+  } ],
+  "Home Kitchen" : [ {
+    "Image" : "https://iili.io/dkOsWJ.md.jpg",
+    "Name" : "jeerea rice,roti, chole ki sabji, masala bhindi, daal MRP=100  Discount=30%",
+    "Price" : 70,
+    "Quantity" : "1 plate"
+  }, {
+    "Image" : "https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/vimdb/164624_0-365-5478-5478.jpg",
+    "Name" : "Dal",
+    "Price" : "35/-",
+    "Quantity" : "1 plate"
+  }, {
+    "Image" : "https://iili.io/dk81I9.jpg",
+    "Name" : "Roti",
+    "Price" : 6,
+    "Quantity" : "1 Piece"
+  }, {
+    "Butter Roti" : "9/-",
+    "Image" : "https://iili.io/dk8ceS.jpg",
+    "Name" : "Butter Roti",
+    "Price" : 9.6,
+    "Quantity" : "1 Piece"
+  }, {
+    "Image" : "https://iili.io/dkSUw7.jpg",
+    "Name" : "Aaloo paratha 2Ps+ Raita + Pickle",
+    "Price" : 66,
+    "Quantity" : "1 Plate"
+  } ],
+  "Kabita's Kitchen" : [ {
+    "Image" : "https://www.kitchensanctuary.com/wp-content/uploads/2019/08/How-to-boil-rice-square-FS-6126-480x270.jpg",
+    "Name" : "Rice",
+    "Price" : 10,
+    "Quantity" : "1 plate"
+  }, {
+    "Image" : "https://i2.wp.com/www.vegrecipesofindia.com/wp-content/uploads/2018/10/mix-vegetable-sabzi-recipe-1-500x500.jpg",
+    "Name" : "Mix Sabji",
+    "Price" : 25,
+    "Quantity" : "1 plate"
+  } ],
+  "Kamlesh's Bakery" : [ {
+    "Image" : "https://iili.io/dkHlZg.jpg",
+    "Name" : "Butterscotch",
+    "Price" : 180,
+    "Quantity" : "500gm"
+  }, {
+    "Image" : "https://iili.io/dkHWap.jpg",
+    "Name" : "Black Forest",
+    "Price" : 180,
+    "Quantity" : "500gm"
+  }, {
+    "Image" : "https://iili.io/dkJ9HB.jpg",
+    "Name" : "strawberry",
+    "Price" : 180,
+    "Quantity" : "500gm"
+  }, {
+    "Image" : "https://iili.io/dkJuxn.jpg",
+    "Name" : "pineapple",
+    "Price" : 180,
+    "Quantity" : "500gm"
+  }, {
+    "Image" : "https://iili.io/dkJRiG.jpg",
+    "Name" : "Chocolate",
+    "Price" : 192,
+    "Quantity" : "500gm"
+  }, {
+    "Image" : "https://iili.io/dkeBJS.jpg",
+    "Name" : "Black Forest pastry",
+    "Price" : 264,
+    "Quantity" : "10 Ps"
+  }, {
+    "Image" : "https://iili.io/dkene9.jpg",
+    "Name" : "Butterscotch Pastry",
+    "Price" : 264,
+    "Quantity" : "10 Ps"
+  }, {
+    "Image" : "https://iili.io/dkezzu.jpg",
+    "Name" : "Pineapple Pastry",
+    "Price" : 264,
+    "Quantity" : "10 Ps"
+  }, {
+    "Image" : "https://iili.io/dkkeaV.jpg",
+    "Name" : "chocolate pastry",
+    "Price" : 264,
+    "Quantity" : "10 Ps"
+  }, {
+    "Image" : "https://iili.io/dkkk8B.jpg",
+    "Name" : "Pudding",
+    "Price" : 24,
+    "Quantity" : "1 Ps"
+  }, {
+    "Image" : "https://iili.io/dkkvyP.jpg",
+    "Name" : "Rum bolls",
+    "Price" : 18,
+    "Quantity" : "1 Ps"
+  }, {
+    "Image" : "https://iili.io/dkkgZg.jpg",
+    "Name" : "Aaloo peties",
+    "Price" : 18,
+    "Quantity" : "1 Ps"
+  }, {
+    "Image" : "https://iili.io/dkvqN9.jpg",
+    "Name" : "Paneer peties",
+    "Price" : 24,
+    "Quantity" : "1 Ps"
+  }, {
+    "Image" : "https://iili.io/dkvLib.jpg",
+    "Name" : "Paneer tikka sandwich",
+    "Price" : 42,
+    "Quantity" : "1 Ps"
+  }, {
+    "Image" : "https://iili.io/dk8R1f.jpg",
+    "Name" : "Cosla sandwich",
+    "Price" : 30,
+    "Quantity" : "1 Ps"
+  }, {
+    "Image" : "https://iili.io/dk8a72.jpg",
+    "Name" : "Chocolate doughnuts",
+    "Price" : 24,
+    "Quantity" : "1 Ps"
+  } ],
+  "Kitchen" : [ {
+    "Charge" : 5,
+    "DefaultPrice" : 98,
+    "Description" : "Location- Narella sankri,      Specialization - Meals, veg, Non- Veg",
+    "Distance" : "50 Min approx",
+    "Image" : "https://iili.io/d46AR1.md.jpg",
+    "Name" : "Darshana's Kicthen",
+    "Status" : "open",
+    "Type" : "Veg"
+  }, {
+    "Charge" : 5,
+    "DefaultPrice" : 84,
+    "Description" : "Location- Abhinav Homes",
+    "Distance" : "50 Min approx",
+    "Image" : "https://iili.io/deQzCB.md.jpg",
+    "Name" : "Home Kitchen",
+    "Status" : "closed",
+    "Type" : "Veg"
+  }, {
+    "Charge" : 5,
+    "DefaultPrice" : 90,
+    "Description" : "Location-Danish Kunj, Specialization-Meals",
+    "Distance" : "50 Min approx",
+    "Image" : "https://iili.io/deQ1CN.md.jpg",
+    "Name" : "Shailu's Kicthen",
+    "Status" : "Open",
+    "Type" : "veg"
+  }, {
+    "Charge" : 5,
+    "DefaultPrice" : 0,
+    "Description" : "Location-Ayodhya Bypass, Specialization-Bakery",
+    "Distance" : "50 Min approx",
+    "Image" : "https://iili.io/deQUF9.jpg",
+    "Name" : "Kamlesh's Bakery",
+    "Status" : "Open",
+    "Type" : "Bakery"
+  } ],
+  "Meals" : [ {
+    "Charge" : 5,
+    "DefaultPrice" : 98,
+    "Description" : "Location-Narella Sankari",
+    "Distance" : "50 Min approx",
+    "Image" : "https://iili.io/d46AR1.md.jpg",
+    "Name" : "Darshana's Kicthen",
+    "Status" : "Open",
+    "Type" : "veg"
+  }, {
+    "Charge" : 5,
+    "DefaultPrice" : 84,
+    "Description" : "Location-Danish Kunj, Specialization-Meals",
+    "Distance" : "50 Min approx",
+    "Image" : "https://iili.io/deZaSe.jpg",
+    "Name" : "Home Kicthen",
+    "Status" : "open",
+    "Type" : "veg"
+  }, {
+    "Charge" : 5,
+    "DefaultPrice" : 90,
+    "Description" : "Location- Danish kunj, Specialization-Meals",
+    "Distance" : "50 Min approx",
+    "Image" : "https://iili.io/deZeRa.md.jpg",
+    "Name" : "Shailu's Kicthen",
+    "Status" : "open",
+    "Type" : "veg"
+  } ],
+  "Non Veg" : [ {
+    "Charge" : 5,
+    "DefaultPrice" : 490,
+    "Description" : "Location- Narella sankari",
+    "Distance" : "50 Min approx",
+    "Image" : "https://iili.io/deZJwv.jpg",
+    "Name" : "Darshan's Kicthen",
+    "Status" : "open",
+    "Type" : "Non Veg"
+  }, {
+    "Charge" : 5,
+    "DefaultPrice" : 220,
+    "Description" : "Location- Ayodhya bypass,  Specialization-Non veg",
+    "Distance" : "50 Min approx",
+    "Image" : "https://iili.io/deZvDv.jpg",
+    "Name" : "Ruby's Kicthen",
+    "Status" : "close",
+    "Type" : "Non veg"
+  }, {
+    "Charge" : 5,
+    "DefaultPrice" : 150,
+    "Description" : "Location - Ayodhya bypass , Specialization- Non veg",
+    "Distance" : "50 Min approx",
+    "Image" : "https://iili.io/deZ4fI.jpg",
+    "Name" : "Aunty Kicthen",
+    "Status" : "close",
+    "Type" : "Non veg",
+    "status" : "close"
+  } ],
+  "Orders" : {
+    "6393098649" : {
+      "2020-08-30 20:02:51Special Thali" : {
+        "address" : "Name- Abhishek Mishra\nPhone- 6393098649\nAddress- mangal shree medical ,opposit narela petrole pump \nLandmark- narela petrole pump",
+        "image" : "https://i.ibb.co/zHhRBSz/410px-Thali-svg.png",
+        "kitchen" : "Darshana's Kicthen",
+        "name" : "Special Thali",
+        "payment" : "COD",
+        "price" : 90,
+        "quantity" : 1,
+        "status" : "Paid"
+      }
+    },
+    "7387550720" : {
+      "2020-08-30 19:47:11Makkhan di roti, chana chola, mix daal, paneer di sabji MRP=100" : {
+        "- Discount= 30%" : {
+          "address" : "Name- Akshay Dighore\nPhone- 7387550720\nAddress- Rudra library's \nLandmark- RK hospital ",
+          "image" : "https://iili.io/d46civ.md.jpg",
+          "kitchen" : "Darshana's Kicthen",
+          "name" : "Makkhan di roti, chana chola, mix daal, paneer di sabji MRP=100/- Discount= 30%",
+          "payment" : "COD",
+          "price" : 70,
+          "quantity" : 1,
+          "status" : "Paid"
+        }
+      }
+    },
+    "7685909064" : {
+      "2020-08-18 11:10:05Rice" : {
+        "address" : "Name- Toufik Zaman\nPhone- 7685909064\nAddress- Near BDO office, Rampuhat, Birbhum, WB, 731224\nLandmark- ",
+        "image" : "https://www.kitchensanctuary.com/wp-content/uploads/2019/08/How-to-boil-rice-square-FS-6126-480x270.jpg",
+        "kitchen" : "Kabita's Kitchen",
+        "name" : "Rice",
+        "payment" : "COD",
+        "price" : 10,
+        "quantity" : 1,
+        "status" : "pending"
+      },
+      "2020-08-18 11:10:05Special Thali" : {
+        "address" : "Name- Toufik Zaman\nPhone- 7685909064\nAddress- Near BDO office, Rampuhat, Birbhum, WB, 731224\nLandmark- ",
+        "image" : "https://i.ibb.co/zHhRBSz/410px-Thali-svg.png",
+        "kitchen" : "Kabita's Kitchen",
+        "name" : "Special Thali",
+        "payment" : "COD",
+        "price" : 50,
+        "quantity" : 1,
+        "status" : "pending"
+      },
+      "2020-08-18 11:21:06Special Thali" : {
+        "address" : "Name- Toufik Zaman\nPhone- 7685909064\nAddress- Near BDO office, Rampuhat, Birbhum, WB, 731224\nLandmark- ",
+        "image" : "https://i.ibb.co/zHhRBSz/410px-Thali-svg.png",
+        "kitchen" : "Home Kitchen",
+        "name" : "Special Thali",
+        "payment" : "COD",
+        "price" : 60,
+        "quantity" : 1,
+        "status" : "pending"
+      }
+    },
+    "8789081905" : {
+      "2020-08-18 12:39:15Plain Rice" : {
+        "address" : "Name- pooja\nPhone- 8789081905\nAddress- bhopal\nLandmark- bhopal",
+        "image" : "https://www.indianfoodforever.com/iffwd/wp-content/uploads/2019/10/plain-rice.jpg",
+        "kitchen" : "Home Kitchen",
+        "name" : "Plain Rice",
+        "payment" : "COD",
+        "price" : 10,
+        "quantity" : 3,
+        "status" : "pending"
+      },
+      "2020-08-18 13:08:54Special Thali" : {
+        "address" : "Name- pooja\nPhone- 8789081905\nAddress- Bhopal\nLandmark- bhopal",
+        "image" : "https://i.ibb.co/zHhRBSz/410px-Thali-svg.png",
+        "kitchen" : "Kitchen Name",
+        "name" : "Special Thali",
+        "payment" : "COD",
+        "price" : 50,
+        "quantity" : 3,
+        "status" : "pending"
+      }
+    }
+  },
+  "Punjabi Kicthen" : [ {
+    "Image" : "https://iili.io/dsnKdJ.jpg",
+    "Name" : "Paneer sabji + 5 butter roti",
+    "Price" : 140
+  }, {
+    "Image" : "https://iili.io/dsnf5v.jpg",
+    "Name" : "Paneer sabji + jeera rice",
+    "Price" : 140
+  }, {
+    "Image" : "https://iili.io/dsnnzN.jpg",
+    "Name" : "Kofta + 4 butter roti + jeera rice",
+    "Price" : 210
+  }, {
+    "Image" : "https://iili.io/dsnIqX.jpg",
+    "Name" : "Kofta + 5 butter roti",
+    "Price" : 140
+  }, {
+    "Image" : "https://iili.io/dsn7e4.jpg",
+    "Name" : "Kofta + jeera rice",
+    "Price" : 140
+  }, {
+    "Image" : "https://iili.io/dsnnzN.jpg",
+    "Name" : "Rajma +4 butter roti + jeera rice",
+    "Price" : 210
+  }, {
+    "Image" : "https://iili.io/dsnX7j.jpg",
+    "Name" : "Rajma + 5 butter roti",
+    "Price" : 140
+  }, {
+    "Image" : "https://iili.io/dsnhkx.jpg",
+    "Name" : "Rajma +jeera rice",
+    "Price" : 140
+  }, {
+    "Image" : "https://iili.io/dsnnzN.jpg",
+    "Name" : "white chole + 4 butter roti/ 8 poori + jeera rice",
+    "Price" : 210
+  }, {
+    "Image" : "https://iili.io/dsnvB1.jpg",
+    "Name" : "white chole + 5 butter roti /10 Poori",
+    "Price" : 140
+  }, {
+    "Image" : "https://iili.io/dsng2a.jpg",
+    "Name" : "white chole + jeera rice",
+    "Price" : 140
+  }, {
+    "Image" : "https://iili.io/dsnnzN.jpg",
+    "Name" : "Mix veg +4 butter roti +jeera rice",
+    "Name " : "Mix veg + 4 butter roti + jeera rice",
+    "Price" : 210
+  }, {
+    "Image" : "https://iili.io/dsn0L7.jpg",
+    "Name" : "Mix veg + 5 butter roti",
+    "Price" : 140
+  }, {
+    "Image" : "https://iili.io/dsnshN.jpg",
+    "Name" : "Mix veg + jeera rice",
+    "Price" : 140
+  } ],
+  "Shailu's Kicthen" : [ {
+    "Image" : "https://iili.io/dkOsWJ.md.jpg",
+    "Name" : "Thali-Rice,daal,sabji,Ratia/salad",
+    "Price" : 70
+  }, {
+    "Image" : "https://iili.io/dkbOyF.jpg",
+    "Name" : "Special Thali- Rice,daal,Special veg sabji,Ratia/Salad",
+    "Price" : 90
+  } ],
+  "User" : {
+    "+917000682723" : {
+      "address" : "",
+      "name" : "abhishek kumar",
+      "password" : "Abhiram@19"
+    },
+    "+919584483841" : {
+      "address" : "",
+      "name" : "abhishek kumar",
+      "password" : "Abhiram@12"
+    },
+    "6206493133" : {
+      "address" : "",
+      "name" : "faroja",
+      "password" : "13221322"
+    },
+    "6364860724" : {
+      "address" : "",
+      "name" : "ghfchxg",
+      "password" : "xhgxdhdhyd"
+    },
+    "6393098649" : {
+      "address" : "",
+      "name" : "Abhishek Mishra",
+      "password" : "123456"
+    },
+    "7000682723" : {
+      "address" : "",
+      "name" : "abhishek kumar",
+      "password" : "Abhiram@12"
+    },
+    "7387550720" : {
+      "address" : "",
+      "name" : "Akshay Dighore",
+      "password" : "MIke2392"
+    },
+    "7685909064" : {
+      "address" : "Near BDO office, Rampuhat, Birbhum, WB, 731224",
+      "name" : "Toufik Zaman",
+      "password" : "123456"
+    },
+    "7987293844" : {
+      "address" : "",
+      "name" : "Rohit Patil",
+      "password" : "durgapatil"
+    },
+    "8269767674" : {
+      "address" : "",
+      "name" : "Yousuf Khan",
+      "password" : "yousuf786"
+    },
+    "8305285666" : {
+      "address" : "26 A Bhawani Dham Phase 1 Narela shankeri Bhopal",
+      "name" : "Manmohan Rajput",
+      "password" : "8305285666"
+    },
+    "8319198080" : {
+      "address" : "31A bhawani dham ",
+      "name" : "Sadhna sahu ",
+      "password" : "8329198080"
+    },
+    "8319576541" : {
+      "address" : "183 प्यूरी कॉलेज कृष्णा कॉलोनी तहसील हुजूर भोपाल",
+      "name" : "laeekkhan",
+      "password" : "227700"
+    },
+    "8789081905" : {
+      "address" : "",
+      "name" : "pooja",
+      "password" : "puja@123"
+    },
+    "8982388122" : {
+      "address" : "",
+      "name" : "ADARSH PATEL",
+      "password" : "adarsh1234"
+    },
+    "9302591393" : {
+      "address" : "",
+      "name" : "Archana thakur ",
+      "password" : "123456"
+    },
+    "9329450554" : {
+      "address" : "",
+      "name" : "Shailu Asthana",
+      "password" : "kanishk07"
+    },
+    "9425132017" : {
+      "address" : "C-4 Bhawani Dham Phase 1, ayodhya bypass road bhopal m. p",
+      "name" : "Malcolm James",
+      "password" : "123456"
+    },
+    "9522832172" : {
+      "address" : "",
+      "name" : "DIVYANK NIGAM",
+      "password" : "divyanknig"
+    },
+    "9669989808" : {
+      "address" : "shahjanabad, khwas pura, bhopal",
+      "name" : "Nazia Aadil",
+      "password" : "aadinaz"
+    },
+    "9752268826" : {
+      "address" : "",
+      "name" : "Kamal Uddin Zaidi",
+      "password" : "886786786"
+    },
+    "9770679770" : {
+      "address" : "",
+      "name" : "Ashish",
+      "password" : "123456"
+    }
+  },
+  "Veg" : [ {
+    "Charge" : 5,
+    "DefaultPrice" : 210,
+    "Description" : "Location -Ayodhya Bypass",
+    "Distance" : "(0-5)km",
+    "Image" : "https://iili.io/deZQOG.jpg",
+    "Name" : "Punjabi Kicthen",
+    "Status" : "open",
+    "Type" : "Veg"
+  }, {
+    "Charge" : 5,
+    "DefaultPrice" : 210,
+    "Description" : "Location-Ayodhya Bypass",
+    "Distance" : "(0-5)km",
+    "Image" : "https://iili.io/deZms2.jpg",
+    "Name" : "Kirti's Kicthen",
+    "Status" : "open",
+    "Type" : "veg"
+  }, {
+    "Charge" : 5,
+    "DefaultPrice" : 210,
+    "Description" : "Location -Danish Kunj",
+    "Distance" : "(0-5)km",
+    "Image" : "https://iili.io/dkOmJI.jpg",
+    "Name" : "Shailu's Kicthen",
+    "Status" : "open",
+    "Type" : "veg"
+  }, {
+    "Charge" : 5,
+    "DefaultPrice" : 210,
+    "Description" : "Location-Ayodhya Bypass",
+    "Distance" : "(0-5)km",
+    "Image" : "https://iili.io/dkOmJI.jpg",
+    "Name" : "Home Kicthen",
+    "Status" : "open",
+    "Type" : "Veg"
+  } ]
+}
